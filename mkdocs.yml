@@ -1,0 +1,17 @@
+site_name: "Algoritmos 2024: Lista de exercícios sobre implementação de funções matemáticas em Python"
+site_author: Jurandy Soares
+
+theme:
+  name: material
+  language: pt
+
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.keys
+  - pymdownx.highlight:
+      anchor_linenums: true
+      auto_title: true
+      linenums: true
+  - pymdownx.superfences
